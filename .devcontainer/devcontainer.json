@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "ADN CONF",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
